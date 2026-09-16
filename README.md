@@ -3,12 +3,6 @@
 **Blinkit 360° Business Operations Analytics** | An end-to-end data analytics project using Excel, SQL, Power Bi to analyze customers, orders, products, inventory, delivery performance, marketing, and customer feedback to uncover actionable business insights.
 
 
-# 🛒 Blinkit Business Performance Analysis | Power BI Dashboard
-
-An end-to-end business intelligence project analyzing **Blinkit's** (quick-commerce) operations across sales, delivery, customers, inventory, and marketing — built to surface actionable insights for leadership decision-making.
-
-
-
 ## 📌 Project Overview
 
 Blinkit operates in the hyper-competitive quick-commerce space, where **delivery speed, product availability, and customer satisfaction** directly drive revenue. This project consolidates data from **8 interconnected operational sources** into a single Power BI data model to answer core business questions:
