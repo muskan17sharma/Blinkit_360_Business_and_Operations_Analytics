@@ -7,11 +7,7 @@
 
 An end-to-end business intelligence project analyzing **Blinkit's** (quick-commerce) operations across sales, delivery, customers, inventory, and marketing — built to surface actionable insights for leadership decision-making.
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-217346?style=flat)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue?style=flat)
 
----
 
 ## 📌 Project Overview
 
