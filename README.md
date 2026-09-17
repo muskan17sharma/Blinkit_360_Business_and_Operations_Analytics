@@ -17,7 +17,7 @@ The result is an interactive dashboard that turns raw transactional logs into de
 
 ---
 
-## 🗃️ Dataset
+##  Dataset
 
 The model is built on **~100K+ rows** across 8 related tables (star-schema style), covering **March 2023 – November 2024**:
 
