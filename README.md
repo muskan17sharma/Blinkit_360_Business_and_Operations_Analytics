@@ -17,7 +17,7 @@ The result is an interactive dashboard that turns raw transactional logs into de
 
 ---
 
-##  Dataset
+## Dataset
 
 The model is built on **~100K+ rows** across 8 related tables (star-schema style), covering **March 2023 – November 2024**:
 
@@ -36,7 +36,7 @@ The model is built on **~100K+ rows** across 8 related tables (star-schema style
 
 ---
 
-## 🎯 Key Business Metrics Modeled
+## Key Business Metrics Modeled
 
 - **Revenue & Orders:** ₹1.1Cr+ total revenue across 5,000 orders, ~2,500 unique customers
 - **Delivery Performance:** ~69% orders delivered On Time, ~21% Slightly Delayed, ~10% Significantly Delayed
