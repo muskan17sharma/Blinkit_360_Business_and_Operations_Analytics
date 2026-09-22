@@ -50,7 +50,7 @@ The model is built on **~100K+ rows** across 8 related tables (star-schema style
 
 ---
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 
 The Power BI report (`Blinkit_Project.pbix`) includes multiple pages / views covering:
 
