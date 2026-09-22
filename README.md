@@ -32,7 +32,9 @@ The model is built on **~100K+ rows** across 8 related tables (star-schema style
 | `blinkit_marketing_performance.csv` | Campaign-level impressions, clicks, conversions, spend, ROAS | 5,400 |
 | `blinkit_customer_feedback.csv` | Order ratings, sentiment, and feedback category | 5,000 |
 
-> Data is synthetically generated to simulate realistic quick-commerce operations for portfolio/learning purposes.
+
+> This data is created to look like real quick-commerce business data for learning and portfolio projects.
+
 
 ---
 
