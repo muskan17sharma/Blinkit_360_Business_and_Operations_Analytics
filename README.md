@@ -64,7 +64,7 @@ The Power BI report (`Blinkit_Project.pbix`) includes multiple pages / views cov
 *(Add screenshots/GIFs of each page here for recruiters to preview without opening Power BI)*
 
 ```
-📸 [Insert dashboard screenshots here]
+[Insert dashboard screenshots here]
 ```
 
 ---
