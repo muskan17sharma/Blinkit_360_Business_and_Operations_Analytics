@@ -79,7 +79,7 @@ The Power BI report (`Blinkit_Project.pbix`) includes multiple pages / views cov
 
 ---
 
-## 💡 Key Insights (example — customize with your actual findings)
+## Key Insights (example — customize with your actual findings)
 
 - A meaningful share of orders (~30%) fall outside the "On Time" SLA, concentrated in specific delivery partners/areas — a direct lever for improving customer satisfaction.
 - Premium and Regular segments contribute disproportionately to revenue relative to their share of the customer base.
