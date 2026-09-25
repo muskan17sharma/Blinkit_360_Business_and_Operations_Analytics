@@ -69,7 +69,7 @@ The Power BI report (`Blinkit_Project.pbix`) includes multiple pages / views cov
 
 ---
 
-## 🛠️ Tools & Techniques Used
+## Tools & Techniques Used
 
 - **Power BI Desktop** — data modeling, relationships, and report design
 - **Power Query (M)** — data cleaning, transformation, and shaping across 8 source tables
