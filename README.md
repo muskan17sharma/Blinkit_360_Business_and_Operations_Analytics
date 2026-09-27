@@ -88,7 +88,7 @@ The Power BI report (`Blinkit_Project.pbix`) includes multiple pages / views cov
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── Blinkit_Project.pbix          # Power BI report file
