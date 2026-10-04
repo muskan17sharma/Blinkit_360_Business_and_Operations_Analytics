@@ -106,7 +106,7 @@ The Power BI report (`Blinkit_Project.pbix`) includes multiple pages / views cov
 
 ---
 
-##  How to Use
+## How to Use
 
 1. Clone this repository
 2. Open `Blinkit_Project.pbix` in **Power BI Desktop**
