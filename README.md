@@ -36,7 +36,7 @@ The model is built on **~100K+ rows** across 8 related tables (star-schema style
 > This data is created to look like real quick-commerce business data for learning and portfolio projects.
 
 
----
+--- 
 
 ## Key Business Metrics Modeled
 
@@ -50,7 +50,7 @@ The model is built on **~100K+ rows** across 8 related tables (star-schema style
 
 ---
 
-## Dashboard Highlights
+## Dashboard Highlight
 
 The Power BI report (`Blinkit_Project.pbix`) includes multiple pages / views covering:
 
