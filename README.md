@@ -92,7 +92,7 @@ The Power BI report (`Blinkit_Project.pbix`) includes multiple pages / views cov
 
 ```
 ├── Blinkit_Project.pbix          # Power BI report file
-├── data/
+├── data//
 │   ├── blinkit_orders.csv
 │   ├── blinkit_order_items.csv
 │   ├── blinkit_products.csv
